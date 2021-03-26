@@ -11,5 +11,23 @@
 **Marital Status:** Single
 
 ## Studies
+**Elementary School:** Instituto Chapultepec
+
+*GPA:* 3.84
+
+**Middle School:** Instituto Chapultepec
+
+*GPA:* 3.92
+
+**High School:** Instituto Chapultepec
+
+*GPA:* 3.96
+
+**College degree:** Ingenieria en Tecnologias Computacionales at Instituto Tecnologico de Estudios Superiores de Monterrey
+
+*First Semester GPA:* 3.7
+
+*Second Semester GPA:* Coursing
+
 ## Programming Experience
 ## Contact Information
