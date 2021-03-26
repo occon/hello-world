@@ -31,6 +31,8 @@
 
 ## Computing Experience
 **Programming Languages:** HTML, CSS, Python, MATLAB & C++
+
 **Software:** Microsoft Office Suite & GitHub
 
 ## Contact Information
+**Email:** hpalomares54@gmail.com
