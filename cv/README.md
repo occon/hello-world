@@ -29,5 +29,8 @@
 
 *Second Semester GPA:* Coursing
 
-## Programming Experience
+## Computing Experience
+**Programming Languages:** HTML, CSS, Python, MATLAB & C++
+**Software:** Microsoft Office Suite & GitHub
+
 ## Contact Information
